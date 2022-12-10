@@ -3,7 +3,7 @@
 <p>LifePlay Mods Flix is a mod manager for the game LifePlay. Still in W.I.P</p>
 <p>Dedicated to the best mods and those that are compatible with the Remake.<br>
 <br>
-<p>LifePlay Mods Flix is based on <a href="https://github.com/NickNo-dev/LP-ModManager">LP-ModManager plugin made by NickNo</a>, but with a lots of difference and improvement:</p>
+<p>LifePlay Mods Flix is based on the idea of <a href="https://github.com/NickNo-dev/LP-ModManager">LP-ModManager plugin made by NickNo</a>, but with a lots of difference and improvement:</p>
 <ol>
 <li> It is maintained</li>
 <li> New design</li>
@@ -20,6 +20,7 @@
 <br>
 <h3>Features</h3>
 <ul>
+<li>More details about each mods.</li>
 <li>Currently, the mod manager contains 52 mods.</li>
 <li>You are informed when a new version of a module is available.</li>
 <li>To do: You are informed when a new version of a LifePlay Mods Flix is available.</li>
@@ -46,6 +47,7 @@ You need to put the LifePlay Mods Flix.exe inside LifePlay folder, next to the "
 <p>This window is separated into two areas:</p>
 <p>1- The left side is the list of all available mods/updates. <br>
 This is where all downloadable modules and addons are listed.</p>
+<p>If you double-click on one of the mods, a page dedicated to the mod you clicked on will open presenting all the information about this module</p>
 <br>
 <p>2- The right side is your local installation.<br>
 This is your LifePlay installation with all the mods that are currently installed.</p>
@@ -59,10 +61,15 @@ This is your LifePlay installation with all the mods that are currently installe
 <p>LifePlay Mods Flix will download the files and automatically install it into your local game folder.</p>
 <p>New mods are enabled by default. They will be added to the bottom of the local installation list.</p>
 <br>
-<p>If there is an update available in the mods, a message will be displayed indicating the number of mods that need to be updated and they will get an "Updated" tag.<br>
-Double click it, to install the update or click "Update all installed modules" button.</p>
+<p>You can also install each mod separately, on the main form or on is dedicated page.</p>
 <br>
-<p>You can also install/update each mod separately, on the main form or on is dedicated page.</p>
+<hr>
+<br>
+<h3>Updating mods and addons</h3>
+<p>If there is an update available in the mods, a message will be displayed indicating the number of mods that need to be updated and they will get an "Updated" tag.<br>
+Double click it, to install the update or click "Update all installed modules" button (orange button).</p>
+<br>
+<p>You can also update each mod separately, on the main form or on is dedicated page.</p>
 <br>
 <hr>
 <br>
@@ -73,18 +80,26 @@ To move a module to a higher / lower priority just drag & drop it to the desired
 <hr>
 <br>
 <h3>Disabling / Enabling modules</h3>
-<p>Installed modules can be disabled at any moment by double-clicking them. They will get a [disabled] label.<br>
+<p>Installed modules can be disabled at any moment by double-clicking them. They will get a [Disabled] label.<br>
 Double click again to enable them again.</p>
 <br>
 <p>You cannot disable lpaddons, the in game editors will always "see" presets supplied by these addons unless you delete the faulty addon.</p>
 <br>
-<p>To delete a mod: Just select the one you don't need then click the red "Delete selected module" button. The module will be erased permanently.</p>
+<hr>
+<br>
+<h3>Deleting a module</h3>
+<p>To delete a mod: Just select the one you don't need, from the right window, then click the red "Delete selected module" button (red button). The module will be erased permanently.</p>
+<br>
+<hr>
+<br>
+<h3>Locating a module</h3>
+<p>If you click on a module (left or right pane) the counterpart (if any) will automatically be selected in the opposite list. This will help you to find the respective module.</p>
 <br>
 <hr>
 <br>
 <h3>How to add my mod to this repo?</h3>
 <p>Visit this page for more info: https://github.com/RaiderKnight/LPMods</p>
-<p>If it's not the first time, you can go to https://lifeplay.site/viewtopic.php?t=426,<br> 
+<p>If it's not the first time, you can go to https://lifeplay.site/viewtopic.php?t=457,<br> 
 reply to the topic asking to add your mod to LifePlay Mods Flix.</p>
 <p>And then, if you are sure to be accepted,<br>
 you can create a topic for your mod on the Raider Knight's forum right away.</p>
