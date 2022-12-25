@@ -20,7 +20,7 @@
 <br>
 <h3>Features</h3>
 <ul>
-<li>More details about each mods.</li>
+<li>A dedicated page for each mods - Provides more details on each module.</li>
 <li>Currently, the mod manager contains 52 mods.</li>
 <li>You are informed when a new version of a module is available.</li>
 <li>To do: You are informed when a new version of a LifePlay Mods Flix is available.</li>
@@ -118,4 +118,6 @@ you can create a topic for your mod on the Raider Knight's forum right away.</p>
 </ul>
 <br>
 <hr>
+<br>
+<p>Disclaimer: I am not affiliated with any of the mods presented here or their authors, nor with LifePlay. All code, text, lpworlds, etc are the property of their respective owners. You use this tool at your own risk.</p>
 <br>
