@@ -20,10 +20,15 @@
 <br>
 <h3>Features</h3>
 <ul>
-<li>A dedicated page for each mods - Provides more details on each module.</li>
 <li>Currently, the mod manager contains 52 mods.</li>
+<li>A dedicated page for each mods - Provides more details on each module.</li>
+<li>Ability to sort mods by mod type</li>
+<li>Ability to sort mods by modder name</li>
+<li>Ability to sort mods by tags</li>
+<li>Each mod is linked to their dedicated page on the RK forum.</li>
+<li>Display the number of available mods for each search.</li>
 <li>You are informed when a new version of a module is available.</li>
-<li>To do: You are informed when a new version of a LifePlay Mods Flix is available.</li>
+<li>You are informed when a new version of a LifePlay Mods Flix is available.</li>
 <li>You are informed when a new version of a LifePlay is available.</li>
 <li>You can delete/update your installed addons/mods automatically</li>
 <li>Option to edit clothing list (casual, sports, swim, work)</li>
