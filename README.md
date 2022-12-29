@@ -42,63 +42,13 @@
 <br>
 <h3>System Requirements & Installation</h3>
 <p>LifePlay Mods Flix requires Windows 7 or higher and .NET 6.0.<br>
-You need to put the LifePlay Mods Flix.exe inside LifePlay folder, next to the "LifePlay.exe".</p>
+Internet access. Does not work if you are not connected.<br>
+<p>You need to put the LifePlay Mods Flix.exe inside LifePlay folder, next to the "LifePlay.exe".</p>
 <br>
 <hr>
 <br>
 <h3>How to use the LifePlay Mods Flix?</h3>
-<p>Double click on LifePlay Mods Flix.exe, a window will open.</p>
-<br>
-<p>This window is separated into two areas:</p>
-<p>1- The left side is the list of all available mods/updates. <br>
-This is where all downloadable modules and addons are listed.</p>
-<p>If you double-click on one of the mods, a page dedicated to the mod you clicked on will open presenting all the information about this module</p>
-<br>
-<p>2- The right side is your local installation.<br>
-This is your LifePlay installation with all the mods that are currently installed.</p>
-<br>
-<p>To launch LifePlay click the green "Launch game" button in the bottom left corner.</p>
-<br>
-<hr>
-<br>
-<h3>Installing mods and addons</h3>
-<p>To install or update a module/addon from the repository just select a mod and then click on the Update button (blue button). </p>
-<p>LifePlay Mods Flix will download the files and automatically install it into your local game folder.</p>
-<p>New mods are enabled by default. They will be added to the bottom of the local installation list.</p>
-<br>
-<p>You can also install each mod separately, on the main form or on is dedicated page.</p>
-<br>
-<hr>
-<br>
-<h3>Updating mods and addons</h3>
-<p>If there is an update available in the mods, a message will be displayed indicating the number of mods that need to be updated and they will get an "Updated" tag.<br>
-Double click it, to install the update or click "Update all installed modules" button (orange button).</p>
-<br>
-<p>You can also update each mod separately, on the main form or on is dedicated page.</p>
-<br>
-<hr>
-<br>
-<h3>Module priority</h3>
-<p>There is no priority, but order in LifePlay Mods Flix is bottom up, so everything that is at the end of the module list, has the higher priority. (This is used only for patches.)<br>
-To move a module to a higher / lower priority just drag & drop it to the desired position in the local list.</p>
-<br>
-<hr>
-<br>
-<h3>Disabling / Enabling modules</h3>
-<p>Installed modules can be disabled at any moment by double-clicking them. They will get a [Disabled] label.<br>
-Double click again to enable them again.</p>
-<br>
-<p>You cannot disable lpaddons, the in game editors will always "see" presets supplied by these addons unless you delete the faulty addon.</p>
-<br>
-<hr>
-<br>
-<h3>Deleting a module</h3>
-<p>To delete a mod: Just select the one you don't need, from the right window, then click the red "Delete selected module" button (red button). The module will be erased permanently.</p>
-<br>
-<hr>
-<br>
-<h3>Locating a module</h3>
-<p>If you click on a module (left or right pane) the counterpart (if any) will automatically be selected in the opposite list. This will help you to find the respective module.</p>
+<p>For more detail, visit this link: https://lifeplay.site/viewtopic.php?t=462</p>
 <br>
 <hr>
 <br>
