@@ -20,21 +20,21 @@
 <br>
 <h3>Features</h3>
 <ul>
-<li>Currently, the mod manager contains 52 mods.</li>
+<li>Currently, the mod manager contains 53 mods.</li>
 <li>A dedicated page for each mods - Provides more details on each module.</li>
-<li>Ability to sort mods by mod type</li>
-<li>Ability to sort mods by modder name</li>
-<li>Ability to sort mods by tags</li>
-<li>Each mod is linked to their dedicated page on the RK forum.</li>
+<li>Ability to sort mods by mod type, modder name or tags</li>
 <li>Display the number of available mods for each search.</li>
+<li>Each mod is linked to their dedicated page on the RK forum.</li>
 <li>You are informed when a new version of a module is available.</li>
+<li>You can delete/update your installed addons/mods automatically</li>
+<li>Ability to create a backup of the local SaveGames and the LifePlay Saves folders.</li>
+<li>Ability to Create some empty files for modding</li>
 <li>You are informed when a new version of a LifePlay Mods Flix is available.</li>
 <li>You are informed when a new version of a LifePlay is available.</li>
-<li>You can delete/update your installed addons/mods automatically</li>
-<li>Option to edit clothing list (casual, sports, swim, work)</li>
-<li>Option to edit name list</li>
+<li>Option to edit name list and clothing list (casual, sports, swim, work)</li>
 <li>You can download new city maps</li>
 <li>You can launch the game from LifePlay Mods Flix</li>
+<li>Possibility to install/update/delete the Remake</li>
 <li>...</li>
 </ul>
 <br>
@@ -69,7 +69,7 @@ you can create a topic for your mod on the Raider Knight's forum right away.</p>
 <h3>Supporting</h3>
 <ul>
 <li>Via <a href="https://www.patreon.com/raiderknight">Patreon</a></li>
-<li>Via <a href="https://www.buymeacoffee.com/raiderknight">Discord</a></li>
+<li>Via <a href="https://www.buymeacoffee.com/raiderknight">Buy me a coffee</a></li>
 </ul>
 <br>
 <hr>
