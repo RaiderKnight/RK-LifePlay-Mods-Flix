@@ -1,6 +1,6 @@
 # RK-LifePlay-Mods-Flix (The new RKLauncher)
 <br><br>
-<p>LifePlay Mods Flix is a mod manager for the game LifePlay. Still in W.I.P</p>
+<p>LifePlay Mods Flix is a mod manager for the game LifePlay. Still in <strong>W.I.P</strong></p>
 <p>Dedicated to the best mods and those that are compatible with the Remake.<br>
 <br>
 <p>LifePlay Mods Flix is based on the idea of <a href="https://github.com/NickNo-dev/LP-ModManager">LP-ModManager plugin made by NickNo</a>, but with a lots of difference and improvement:</p>
@@ -12,11 +12,10 @@
 <li> More mods and options offered</li>
 </ol>
 <br>
-<img src="https://i.ibb.co/LQvf9Kp/Firstscreen-RKL.png" alt"screenshot" width="450" height="450" /><br><br>
-<img src="https://i.ibb.co/vv5DCp4/Install-MRKL.png" alt"screenshot" width="450" height="450"/><br><br>
-<img src="https://i.ibb.co/9st9Wqz/Installed-RKL.png" alt"screenshot" width="450" height="450" /><br><br>
-<img src="https://i.ibb.co/vxLJL3P/update-Mod-RKL.png" alt"screenshot" width="450" height="450"/><br><br>
-<img src="https://i.ibb.co/9st9Wqz/Installed-RKL.png" alt"screenshot" width="450" height="450" />
+<img src="https://github.com/RaiderKnight/RK-LifePlay-Mods-Flix/raw/main/Newlook2023.png"><br><br>
+<img src="https://i.ibb.co/9st9Wqz/Installed-RKL.png"><br><br>
+<img src="https://i.ibb.co/vxLJL3P/update-Mod-RKL.png"><br><br>
+<img src="https://i.ibb.co/9st9Wqz/Installed-RKL.png">
 <br>
 <h3>Features</h3>
 <ul>
