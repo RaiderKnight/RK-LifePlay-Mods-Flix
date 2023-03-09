@@ -47,13 +47,13 @@ Internet access. Does not work if you are not connected.<br>
 <hr>
 <br>
 <h3>How to use the LifePlay Mods Flix?</h3>
-<p>For more detail, visit this link: https://lifeplay.site/viewtopic.php?t=462</p>
+<p>For more detail, visit this link: https://forums.raiderknight.com/viewtopic.php?t=462</p>
 <br>
 <hr>
 <br>
 <h3>How to add my mod to this repo?</h3>
 <p>Visit this page for more info: https://github.com/RaiderKnight/LPMods</p>
-<p>If it's not the first time, you can go to https://lifeplay.site/viewtopic.php?t=457,<br> 
+<p>If it's not the first time, you can go to https://forums.raiderknight.com/viewtopic.php?t=457,<br> 
 reply to the topic asking to add your mod to LifePlay Mods Flix.</p>
 <p>And then, if you are sure to be accepted,<br>
 you can create a topic for your mod on the Raider Knight's forum right away.</p>
@@ -61,7 +61,7 @@ you can create a topic for your mod on the Raider Knight's forum right away.</p>
 <hr>
 <br>
 <h3>Contributing</h3>
-<p>Visit the <a href="https://lifeplay.site">Raider Knight community forums</a> or my <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> server for help, to submit a bug, to contribute to the improvement of the application or just to chat!</p>
+<p>Visit the <a href="https://forums.raiderknight.com">Raider Knight community forums</a> or my <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> server for help, to submit a bug, to contribute to the improvement of the application or just to chat!</p>
 <br>
 <hr>
 <br>
