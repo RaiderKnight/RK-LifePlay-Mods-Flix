@@ -1,6 +1,6 @@
 # RK-LifePlay-Mods-Flix (The new RKLauncher)
 <br><br>
-<p>LifePlay Mods Flix is a mod manager for the game LifePlay. Still in <strong>W.I.P</strong></p>
+<p>LifePlay Mods Flix is a mod manager for the game LifePlay.</p>
 <p>Dedicated to the best mods and those that are compatible with the Remake.<br>
 <br>
 <p>LifePlay Mods Flix is based on the idea of <a href="https://github.com/NickNo-dev/LP-ModManager">LP-ModManager plugin made by NickNo</a>, but with a lots of difference and improvement:</p>
